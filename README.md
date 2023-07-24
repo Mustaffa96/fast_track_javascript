@@ -7,3 +7,4 @@ Requirement
 3. Google Chrome (Recommended) as browser
 4. Babel & Webpack
 5. Node JS
+6. Install LiveServer in VSCode via VSCode extension 
