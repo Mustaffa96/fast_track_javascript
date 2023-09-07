@@ -31,7 +31,7 @@ console.log(typeof hobbies);
 
 //Object literal
 const address = {
-    city: 'Shah Aley',
+    city: 'Shah Alam',
     state: 'SEL'
 }
 console.log(typeof address);
