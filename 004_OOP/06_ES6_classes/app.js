@@ -1,4 +1,3 @@
-
 // Class Definition (Person):
 // The code defines a class called Person using the class keyword. 
 // This class has a constructor method to initialize instances of the class with three parameters: firstName, lastName, and dob (date of birth).

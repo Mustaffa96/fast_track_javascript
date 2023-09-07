@@ -1,6 +1,6 @@
 A promise in JavaScript is an object that represents the eventual completion or failure of an asynchronous operation. It is a way to handle asynchronous code more elegantly and avoid callback hell, making it easier to work with tasks like fetching data from a server or reading a file.
 
-Here's a brief explanation of the key concepts of promises based on the link you provided:
+Here's a brief explanation of the key concepts of promises based on the w3school:
 
 1. **States**: Promises have three states:
    - **Pending**: Initial state, neither fulfilled nor rejected.
