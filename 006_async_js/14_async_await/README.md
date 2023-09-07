@@ -1,5 +1,3 @@
-I'm unable to access external websites, but I can certainly explain the concept of `async/await` in JavaScript to you.
-
 `async/await` is a feature in JavaScript that allows you to work with asynchronous code in a more readable and synchronous-like manner. It's often used with functions that return promises, such as those involving network requests or file I/O.
 
 Here's a brief overview of how it works:
